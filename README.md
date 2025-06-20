@@ -20,3 +20,4 @@ To eliminate voter fraud and ensure trust in electoral processes using blockchai
 
 ## 📜 Contract Details
 (To be filled manually after deployment)
+![image](https://github.com/user-attachments/assets/bdc3f5d9-a7dc-49f5-a1df-dd056eb4d8a0)
